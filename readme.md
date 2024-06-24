@@ -27,3 +27,5 @@ Our Supporters which gave us nodes and boosts
 - Zhuchii (Booster) (Quited due to drama)
 - NyaGPT (Anti Nuker) (Quited due to drama)
 - Noire (Anti Nuker & Helper) (quited along with NyaGPT)
+- Mdi (General Manager) (quited)
+- Void (Another Manager) (quited)
