@@ -1,6 +1,6 @@
 ## The History of Is-a.space
 
-is-a.space started as is-a.vps
+is-a.space started as PortKVM spaces and was called is-a.vps (in the golden age). and Lilyhosting (Long gone dead), but lilyhosting is not going to be mentioned because of copyright ressons.
 it was small back than
 and holy shit it was growing fast. we used to provide 8GB and 4 cores for free. and it used to be good,
 like 600 members to 1K, however it didnt last long, we had countless issues with staff.
