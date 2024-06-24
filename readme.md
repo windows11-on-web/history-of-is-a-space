@@ -16,3 +16,14 @@ PS Our nodes over the history
 - 32GB RAM 192 core Intel i5 Node (still exists today)
 - 192GB RAM 48 core Intel Xeon Node (Germen node) (Dead) (we got 3 of them, but dead afterwards) (this was the greatest age of is-a.vps, The golden age in fact)
 - 75GB RAM 4 core Intel Xeon Node (Spain node) (Dead) (Lost age. started losing members)
+
+Our Supporters which gave us nodes and boosts
+- Foxy (Booster & staff)
+- Jadify (Gave Node)
+- Dominic (Gave Node & Booster & Staff)
+- Czy Binke (Staff, DDOS Protection Adder)
+- Youssef (Staff, DDOS Protection Adder)
+- Raxgo (Gave me nitro & booster)
+- Zhuchii (Booster) (Quited due to drama)
+- NyaGPT (Anti Nuker) (Quited due to drama)
+- Noire (Anti Nuker & Helper) (quited along with NyaGPT)
